@@ -9,7 +9,7 @@ Me apaixonei pela programação na faculdade quando descobri que uma linguagem t
 <div align="center">
 💖 🐩 Orgulhosa irmã de pet 🐩 💖<br>
 🌱 Atualmente, estou aprendendo <strong>Python e React Native</strong> 🌱<br>
-💬 Idiomas <strong>Inglês</strong> (avançado/fluente), <strong>Espanhol</strong> (avançado), <strong>Italiano </strong>e <strong>Alemão</strong> (iniciante) 💬
+💬 Idiomas: <strong>Inglês</strong> (avançado/fluente), <strong>Espanhol</strong> (avançado), <strong>Italiano </strong>e <strong>Alemão</strong> (iniciante) 💬
 </div>
 
 ***************	
